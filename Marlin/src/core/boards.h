@@ -355,6 +355,7 @@
 
 #define BOARD_THE_BORG                5000  // THE-BORG (Power outputs: Hotend0, Hotend1, Bed, Fan)
 #define BOARD_REMRAM_V1               5001  // RemRam v1
+#define BOARD_TEENSY40_41             5002
 
 //
 // Espressif ESP32 WiFi
